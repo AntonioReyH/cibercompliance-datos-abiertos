@@ -1,0 +1,26 @@
+[
+  { 
+    "id": "Ley 21.663", 
+    "titulo": "Ley Marco de Ciberseguridad", 
+    "tipo": "Ley", 
+    "alcance": "Servicios Esenciales y OIV", 
+    "estado": "Vigente", 
+    "fechaPublicacion": "2024-04-08" 
+  },
+  { 
+    "id": "Ley 19.628", 
+    "titulo": "Protección de la Vida Privada (Datos Personales)", 
+    "tipo": "Ley", 
+    "alcance": "Toda organización que trate datos personales", 
+    "estado": "En Reforma", 
+    "fechaPublicacion": "1999-08-28" 
+  },
+  { 
+    "id": "RAN 20-10", 
+    "titulo": "Gestión de Riesgo Operacional y Ciberseguridad (CMF)", 
+    "tipo": "Normativa CMF", 
+    "alcance": "Bancos e Instituciones Financieras", 
+    "estado": "Vigente", 
+    "fechaPublicacion": "2020-01-01" 
+  }
+]
