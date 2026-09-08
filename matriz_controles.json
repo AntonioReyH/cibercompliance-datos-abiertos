@@ -1,6 +1,6 @@
 [
   { 
-    "id": "DOC-001", 
+    "id": "DOC-003", 
     "dominio": "Seguridad de la Arquitectura", 
     "controlNorma": "Art. 9 (Ley 21.663)", 
     "descripcion": "Diseño de red compartimentada y con privilegios mínimos.", 
