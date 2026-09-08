@@ -1,8 +1,8 @@
 [
   { 
-    "id": "DOC-003", 
+    "id": "DOC-001", 
     "dominio": "Seguridad de la Arquitectura", 
-    "controlNorma": "Art. 9 (Ley 21.663)", 
+    "controlNorma": "Art. 9 (Ley 21.663) Test 2", 
     "descripcion": "Diseño de red compartimentada y con privilegios mínimos.", 
     "medioVerificacion": "Planos de arquitectura de red y reglas de Firewall", 
     "estado": "Implementado" 
