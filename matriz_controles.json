@@ -1,0 +1,18 @@
+[
+  { 
+    "id": "DOC-001", 
+    "dominio": "Seguridad de la Arquitectura", 
+    "controlNorma": "Art. 9 (Ley 21.663)", 
+    "descripcion": "Diseño de red compartimentada y con privilegios mínimos.", 
+    "medioVerificacion": "Planos de arquitectura de red y reglas de Firewall", 
+    "estado": "Implementado" 
+  },
+  { 
+    "id": "DOC-002", 
+    "dominio": "Control de acceso", 
+    "controlNorma": "A.9.1.1 Política de control de acceso", 
+    "descripcion": "Contar con controles de acceso lógico basados en identificador único y contraseña. Uso de MFA para sistemas críticos.", 
+    "medioVerificacion": "Evidencia de medidas de seguridad aplicadas (encriptación, restricciones de conexión)", 
+    "estado": "En Proceso" 
+  }
+]
